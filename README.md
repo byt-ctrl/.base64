@@ -11,7 +11,7 @@ This project implements a Base64 encoder and decoder tool using Python **without
 
 ## Example
 
-``` py 
+``` bash 
    Encryption
 
 /----------- Base64 Encoder / Decoder -----------/ 
